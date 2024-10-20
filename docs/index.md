@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Header 1
 
 This is Header 1 section.
